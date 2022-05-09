@@ -1,0 +1,1 @@
+print("Dậy đê ông cháu ơi!!!!")
